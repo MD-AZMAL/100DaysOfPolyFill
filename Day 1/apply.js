@@ -29,6 +29,7 @@ Function.prototype.myApply = function(context, args) {
     return context.currentFunction(...args);    
 }
 
+
 console.log('\n\n----------------');
 console.log('Custom implementation\n\n');
 

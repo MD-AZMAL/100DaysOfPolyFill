@@ -6,3 +6,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 1
 * [apply()](Day%201/apply.js)
+
+# Day2 
+* [bind()](Day%202/bind.js)
