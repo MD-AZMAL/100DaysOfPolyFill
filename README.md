@@ -12,3 +12,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 3
 * [find()](Day%203/find.js)
+
+# Day 4
+* [filter()](Day%204/filter.js)
