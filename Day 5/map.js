@@ -16,7 +16,7 @@ Array.prototype.myMap = function (cb) {
   // but here we simply append the element returned by the callback the condition to an array and later return it
 
   const currentArray = this; // store current refenece of the array
-  const mappedArray = []; // to store elements satisfying the condition
+  const mappedArray = []; // to store elements returned by the callback
 
   if (typeof cb != "function")
     throw new TypeError(`${cb} not a valid function`);
