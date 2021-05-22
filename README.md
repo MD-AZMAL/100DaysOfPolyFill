@@ -18,3 +18,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 5
 * [map()](Day%205/map.js)
+
+# Day 6
+* [concat()](Day%206/concat.js)
