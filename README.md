@@ -21,3 +21,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 6
 * [concat()](Day%206/concat.js)
+
+# Day 7
+* [slice()](Day%207/slice.js)
