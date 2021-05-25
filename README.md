@@ -27,3 +27,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 8
 * [reduce()](Day%208/reduce.js)
+
+# Day 9
+* [join()](Day%209/join.js)
