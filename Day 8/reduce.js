@@ -1,6 +1,6 @@
 require("../IOODaysOfPolyFill")(8);
 
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
+// The reduce() method executes a reducer function (that you provide) on each element of the array, resulting in a single output value.
 
 const arr = [10, 20, 30, 40, 50];
 
