@@ -11,7 +11,7 @@ console.log(arr.join());
 console.log(arr.join("@"));
 
 // My implementation of join()
-Array.prototype.myJoin = function (sep) {
+Array.prototype.myJoin = function (sep = ",") {
   // store the current reference of the array to a variable
   const currentArray = this;
 
@@ -19,8 +19,6 @@ Array.prototype.myJoin = function (sep) {
   let joinedString = "";
 
   let i; // looping variable
-
-  sep = sep ? sep : ","; // if separator is not provided then set it to comma by default
 
   // keep concatenating each element to the joinedString with the separator until the last element
   for (i = 0; i < currentArray.length - 1; i++)
