@@ -30,3 +30,9 @@ A challenge to make pollyfills for 100 days!
 
 # Day 9
 * [join()](Day%209/join.js)
+
+# Day 10
+* [indexOf()](Day%2010/indexOf.js)
+
+# Day 11
+* [includes()](Day%2011/includes.js)
