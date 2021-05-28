@@ -36,3 +36,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 11
 * [includes()](Day%2011/includes.js)
+
+# Day 12
+* [reverse()](Day%2012/reverse.js)
