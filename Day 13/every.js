@@ -4,7 +4,7 @@ require("../IOODaysOfPolyFill")(13);
 
 const arr = [10, 20, 30, 40, 50];
 
-// Vanilla filter()
+// Vanilla every()
 console.log("Vanilla implementation\n\n");
 
 console.log(arr.every((ele) => ele > 20));
