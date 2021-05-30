@@ -42,3 +42,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 13
 * [every()](Day%2013/every.js)
+
+# Day 14
+* [some()](Day%2014/some.js)
