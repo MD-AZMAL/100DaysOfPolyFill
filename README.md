@@ -48,3 +48,9 @@ A challenge to make pollyfills for 100 days!
 
 # Day 15
 * [unshift()](Day%2015/unshift.js)
+
+# Day 16
+* [of()](Day%2016/of.js)
+
+# Day 17
+* [push()](Day%2017/push.js)
