@@ -19,7 +19,7 @@ console.log(arr.fill());
 
 // My implementation of fill()
 Array.prototype.myFill = function (element, start = 0, end = this.length) {
-  // default parameters wiht the default values
+  // default parameters with the default values
 
   // this method is destructive in nature
   // store reference of current array
