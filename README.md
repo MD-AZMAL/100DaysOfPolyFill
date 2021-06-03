@@ -54,3 +54,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 17
 * [push()](Day%2017/push.js)
+
+# Day 18
+* [fill()](Day%2018/fill.js)
