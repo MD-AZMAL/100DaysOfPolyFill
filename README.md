@@ -60,3 +60,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 19
 * [pop()](Day%2019/pop.js)
+
+# Day 20
+* [forEach()](Day%2020/forEach.js)
