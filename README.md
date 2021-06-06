@@ -63,3 +63,6 @@ A challenge to make pollyfills for 100 days!
 
 # Day 20
 * [forEach()](Day%2020/forEach.js)
+
+# Day 21
+* [lastIndexOf()](Day%2021/lastIndexOf.js)
