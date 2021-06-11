@@ -66,3 +66,18 @@ A challenge to make pollyfills for 100 days!
 
 # Day 21
 * [lastIndexOf()](Day%2021/lastIndexOf.js)
+
+# Day 22
+* [union()](Day%2022/union.js)
+
+# Day 23
+* [difference()](Day%2023/difference.js)
+
+# Day 24
+* [intersection()](Day%2024%20/intersection.js)
+
+# Day 25
+* [uniq()](Day%2025/uniq.js)
+
+# Day 26
+* [without()](Day%2026/without.js)
