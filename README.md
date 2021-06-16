@@ -81,3 +81,9 @@ A challenge to make pollyfills for 100 days!
 
 # Day 26
 * [without()](Day%2026/without.js)
+
+# Day 27
+* [take()](Day%2027/take.js)
+
+# Day 28
+* [takeRight()](Day%2028/takeRight.js)
